@@ -1,6 +1,19 @@
+/* File: COMPSCI2_Final Project.cpp : This file contains the 'main' function. Program execution begins and ends here.
+   
+   Name: Isaiah Avila
+   
+   Date: 05/12/2025 (Last Modified)
+   
+   Description: This program will be used to transform plaintext into ciphertext (encryption). It it is also capable 
+                of transforming ciphertext back into plaintext (decryption).
+   
+   Usage: This program will utilize data structures, dynamic arrays, inheritance, and polymorphism to shift characters
+          either forwards or backwards between 0-25 places based upon the user given key in their second command-line
+          argument. */
+          
 #include <iostream>
 #include <fstream>
-#include <sstream>      /*  */
+#include <sstream>      
 #include <memory>
 #include <string>
 #include <stdexcept>
