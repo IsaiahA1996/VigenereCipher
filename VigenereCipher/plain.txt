@@ -1,0 +1,3 @@
+I'm a student at Chaffey College. This is my second semester of Computer Science, and I made this program for my final project of the class.
+
+This is my attempt at an encryption/decryption algorithm, which was accomplished throught the implementation of dynamic arrays, streams, class inheritance (specifically derived classes), polymorphism, and smart pointers.
